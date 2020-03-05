@@ -49,10 +49,17 @@ Decimal digit	Relays
 因為中轉有重量一个或五，響鈴實驗室稱這個系統「二一五進位制的」記法。 實際上，它不是那些數基的組合; 相反，它是七位，混雜的十進代碼。 所有響鈴實驗室傳遞在小數算術工作的計算機。 一條專用電路檢查看二個和仅二個中轉為每十進制數被加強了。 另一條電路檢查為每個小組僅有的一個中轉是在防止二個不同錯誤取消，雖然故障的某些異常的組合可能是未被發現。
 
 學到的單字
+
 Incorporated 合併
+
 speculated    推測
+
 relay calculator 中轉計算器
+
 binary logic  二進制邏輯
+
 binary relays 二進制中轉
+
 multipole relays 多進制中轉
+
 prefix 前綴
