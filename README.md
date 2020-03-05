@@ -52,6 +52,10 @@ Decimal digit	Relays
 
 Incorporated 合併
 
+logical schemes with diodes 邏輯計劃與二極管
+
+point transistor點接觸晶體管
+
 speculated    推測
 
 relay calculator 中轉計算器
